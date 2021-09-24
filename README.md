@@ -1,1 +1,1 @@
-# trucksimulator-first_pack
+# trucksimulator-first-pack
